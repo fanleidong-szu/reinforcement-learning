@@ -6,6 +6,6 @@
 ## 课程1
 1. Tex是排版系统，LaTex是基于tex的宏。
 2. 靠谱的教程
-![](https://github.com/fanleidong-szu/reinforcement-learning/blob/master/texpng.png)
+![靠谱的教程](https://github.com/fanleidong-szu/reinforcement-learning/blob/master/texpng.png)
 4. Ltxprimer-1.0.pdf：155页，适合科研者撰写科技论文。
 查文档：在terminal里输入texdoc symbols
